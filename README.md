@@ -13,7 +13,9 @@ Site Consist of 3 webpages
 URLS for above pages as given below :
 
 Dashboard --  https://tejasg-007.github.io/electricitydemo.github.io/#/
+
 Add Bill      --  https://tejasg-007.github.io/electricitydemo.github.io/#/addbill
+
 Edit Bill      --   https://tejasg-007.github.io/electricitydemo.github.io/#/editbill (Note: This won't open until we provide data from console ) / Beside you can go to this page via Dashboard by clicking on "edit" icon in MODIFY section.
 
 ALL SOURCE CODE FILE IS UPLOADED WITH PREVIEW IMAGES.
