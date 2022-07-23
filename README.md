@@ -1,5 +1,27 @@
 https://tejasg-007.github.io/electricitydemo.github.io/#/
+----------------------------------------------------------------------------------------------------------------------
+URL: https://tejasg-007.github.io/electricitydemo.github.io/#/
 
+Tech Stack Used  :  Flutter SDK[Framework] | Firebase[Storage]
+
+Site Consist of 3 webpages 
+
+1.Dashboard - All bills which are added and edited will be shown here with details such as bill id, bill date, paid date, unit consumption etc. Also, there is modify section where edit and delete option available.
+2.Add bill-  Here you can add bill with required info. such as paiddate , billdate and amount and unit consumed.
+3.Edit bill -  Here you can edit bill.
+
+URLS for above pages as given below :
+
+Dashboard --  https://tejasg-007.github.io/electricitydemo.github.io/#/
+Add Bill      --  https://tejasg-007.github.io/electricitydemo.github.io/#/addbill
+Edit Bill      --   https://tejasg-007.github.io/electricitydemo.github.io/#/editbill (Note: This won't open until we provide data from console ) / Beside you can go to this page via Dashboard by clicking on "edit" icon in MODIFY section.
+
+ALL SOURCE CODE FILE IS UPLOADED WITH PREVIEW IMAGES.
+
+THANK YOU!
+
+
+====================================================================================================================================================================
 
 Develop a pseudo FullStack application in any tech-stack which manages electricity bill record for a house
 [Minimum Requirement] (entry level)
